@@ -44,7 +44,7 @@ This study analyzes what drives used car prices in Sri Lanka's online secondary 
 
 | Attribute | Details |
 |-----------|---------|
-| **Source** | [Kaggle — Sri Lanka Used Car Market Dataset](https://kaggle.com) |
+| **Source** | [Kaggle — Sri Lanka Used Car Market Dataset](https://www.kaggle.com/datasets/prasadnirmal/srilankan-second-vehiclecar-price-dataset) |
 | **Original size** | 9,788 records, 16 variables |
 | **After preprocessing** | 9,676 records, 15 variables (18 duplicates removed; "New" condition vehicles excluded) |
 | **Target variable** | `price` (LKR Lakhs, log-transformed as `price_transformed`) |
