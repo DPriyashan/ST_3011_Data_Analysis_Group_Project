@@ -1,0 +1,14 @@
+kagglehub
+pandas
+numpy
+scipy
+pygam
+scikit-learn
+statsmodels
+pingouin
+scikit-posthocs
+diptest
+prince
+matplotlib
+seaborn
+jupyter
