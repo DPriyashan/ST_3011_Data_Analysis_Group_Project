@@ -12,7 +12,9 @@
 
 ---
 
-> ⚠️ **Disclaimer:** This is a university learning exercise, not a production data science project. Methods were deliberately explored in depth — including parametric assumption testing, non-parametric alternatives, bootstrap analysis, and GAM modeling — for learning purposes.
+> ⚠️ **Disclaimer:** This is a university learning exercise, not a production data science project.
+>
+> The goal was to practice and explore statistical analysis and modeling techniques across multiple research objectives. Methods were deliberately explored in depth — including testing parametric assumptions before falling back to non-parametric alternatives, bootstrap analysis, and GAM modeling — for learning purposes.
 
 ---
 
