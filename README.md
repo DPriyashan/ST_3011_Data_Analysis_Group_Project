@@ -100,9 +100,6 @@ The dataset is **downloaded automatically** via `kagglehub` when you run the not
 
 For full details, see [`Project_Report.pdf`](./Project_Report.pdf).
 
-For full details, see [`Project_presentation.pdf`](./Project_presentation.pdf).
-
-
 ---
 
 ## ⚙️ How to Run
